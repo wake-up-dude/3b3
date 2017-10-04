@@ -26,8 +26,8 @@ int main(){
 	cout << arrary_pointer2 << "\n";
 	cout << arrary_pointer3 << "\n";
 
-	cout << arrary_pointer4 << "\n";
-	cout << arrary_pointer5 << "\n";
+	cout << *arrary_pointer4 << "\n";
+	cout << *arrary_pointer5 << "\n";
 
 	return 0;
 }
